@@ -11,3 +11,6 @@ Functionality in scope
 - All previous modes such as manual and autonomous modes are retained along with this new feature
 
 The maze is categorized into cells. First, The car does a Scanning around the maze taking object shadowing into account. Next, based on the input sequence and Scanned data, The Algorithm calculates set of waypoints for the car to traverse. The Waypoints are then executed seqeuntially to reach the destination.
+
+
+TODO : add image here
